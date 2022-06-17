@@ -1,2 +1,11 @@
-# wisplocal.m3u
-localwispcinema
+#EXTM3U
+#EXTINF:50, WIN SPORTS +
+http://172.16.10.200/0.m3u8
+#EXTINF:50, ESPN
+http://172.16.10.200/2.m3u8
+#EXTINF:50, ESPN 2
+http://172.16.10.200/4.m3u8
+#EXTINF:50, ESPN 3
+http://172.16.10.200/6.m3u8
+#EXTINF:50, DIRECTV SPORTS 
+http://172.16.10.200/8.m3u8
